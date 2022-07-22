@@ -1,6 +1,9 @@
 # Quad_Lateral_Box_Expand_Pocketing-1-2-3-N-D
 
-Python+OSGEARTH+BLENDER Environmnet 
+Required:
+VPCKG Manager
+OSGEARTH
+Flight Simulator
 
 
 
@@ -13,4 +16,3 @@ Python+OSGEARTH+BLENDER Environmnet
 ![OSGEARTH Frustum Capture](https://user-images.githubusercontent.com/42751011/178172346-9eb4ab07-c13f-4f77-b9b3-c4a040c97d64.PNG)
 
 
-![OSGEARTH Frustum Capture](https://user-images.githubusercontent.com/42751011/178172338-f53b4a02-ab17-4b0b-adda-ebbd112cea97.PNG)
