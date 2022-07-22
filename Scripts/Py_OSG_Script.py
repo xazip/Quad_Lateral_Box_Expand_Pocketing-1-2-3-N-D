@@ -1767,5 +1767,5 @@ def openFile(flagList):
 	parser=Parser()
 	
 	
-Blender.Window.FileSelector(openFile,'import','file.osgjs') 
+
 	
