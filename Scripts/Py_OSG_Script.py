@@ -1,11 +1,4 @@
-import newGameLib
-from newGameLib import *
-import Blender	
 
-################################################
-#BINDPOSE=0
-BINDPOSE=1
-################################################
 
 
 class Node:
